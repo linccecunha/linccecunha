@@ -13,7 +13,7 @@
 [twitter]: https://x.com/lincceee
 [youtube]: https://www.youtube.com/@lincceee
 [instagram]: https://www.instagram.com/lincceee
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
