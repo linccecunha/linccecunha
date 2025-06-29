@@ -10,7 +10,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/lincceee
 [youtube]: https://www.youtube.com/@lincceee
 [instagram]: https://www.instagram.com/lincceee
 [linkedin]: https://linkedin.com/in/joshmadakor
