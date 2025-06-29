@@ -1,6 +1,6 @@
 <h1> Prazer, Lincce! <br/> <a href="https://www.linkedin.com/in//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@lincceee">YouTuber</a></h1>
 
-<h2>👨‍💻
+<h2>👩🏽‍💻🎧🎸
 
 [
 ](https://www.youtube.com/@lincceee)<h2> Connect with me:</h2>
