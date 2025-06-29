@@ -11,7 +11,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@lincceee
 [instagram]: https://www.instagram.com/lincceee
 [linkedin]: https://linkedin.com/in/joshmadakor
 
